@@ -1,0 +1,33 @@
+body {
+    background-color: #FAEBD7;
+    font-color: red;
+  }
+  
+  h1{
+      font-size: 50px;
+      text-align:center;
+    }
+  
+     h2 {
+      
+      text-align:center;
+    }
+  
+    p {
+      font-size: 14px;
+     
+    }
+  .thick-white-border {
+      border-color:#273582;
+      border-width: 8px;
+      border-style: solid;
+   }
+  .bigger-image {
+    width: 500px;
+    margin-left: auto;
+  margin-right: auto;}
+  img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
